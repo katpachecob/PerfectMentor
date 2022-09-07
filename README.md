@@ -15,9 +15,9 @@ Bienvenido a The Perfect Mentor, el objetivo de este enlatado es desarrollar una
 #### **Must have**
 - Sign Up y Login de usuario
 - Crear rutas y permisos por rol:
-  > Mentor
-  > Mentee
-  > Admin
+  1. Mentor
+  2. Mentee
+  3. Admin
 - Formulario de registro e inicio de sesión
 - Selección de registro entre mentor o mentee
 - Estadísticas
