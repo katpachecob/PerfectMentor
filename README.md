@@ -6,5 +6,6 @@ Bienvenido a The Perfect Mentor, el objetivo de este enlatado es desarrollar una
 #### _Recuerda que esto es una sugerencia_
 **Back End**: 
 > MongoDB, Express, Node, JWT y Firebase
+
 **Front End**:
 > React, Redux y Tailwind
