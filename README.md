@@ -12,7 +12,7 @@ Bienvenido a The Perfect Mentor, el objetivo de este enlatado es desarrollar una
 
 ## Condiciones para cumplir con the perfect mentor
 
-#### ** Must have**
+#### **Must have**
 - Sign Up y Login de usuario
 - Crear rutas y permisos por rol:
   > Mentor
@@ -23,7 +23,7 @@ Bienvenido a The Perfect Mentor, el objetivo de este enlatado es desarrollar una
 - Estadísticas
 
 
-#### ** Should have**
+#### **Should have**
 
 - Crear un chat
 
