@@ -1,4 +1,4 @@
-# Mentor Enlatado
+# The Perfect Mentor
 
 Te damos la bienvenida a The Perfect Mentor. El objetivo de este proyecto es desarrollar una web (mobile-first) donde un mentor pueda encontrar al mentee ideal y, del mismo modo, un mentee pueda encontrar el mentor perfecto de acuerdo a las necesidades de su búsqueda.
 
@@ -27,7 +27,7 @@ Te damos la bienvenida a The Perfect Mentor. El objetivo de este proyecto es des
 
 - Crear un chat
 
-#### _Aquí tendrás más detalles de este proyecto [https://docs.google.com/document/d/1nM7XKd3DNEBjDdtdRRl7xrVtaVLIiGSMb9e6wCDDBTE/edit?usp=sharing](https://docs.google.com/document/d/1nM7XKd3DNEBjDdtdRRl7xrVtaVLIiGSMb9e6wCDDBTE/edit?usp=sharing)
+#### Aquí tendrás más detalles de este proyecto [https://docs.google.com/document/d/1nM7XKd3DNEBjDdtdRRl7xrVtaVLIiGSMb9e6wCDDBTE/edit?usp=sharing](https://docs.google.com/document/d/1nM7XKd3DNEBjDdtdRRl7xrVtaVLIiGSMb9e6wCDDBTE/edit?usp=sharing)
 
 #### Sobre el diseño de la página puedes ver este Figma como guía para poder arrancar con tu web .[https://www.figma.com/file/i1jAyUFUFfWhAoi1WCBcoC/Globant?node-id=89%3A10770](https://www.figma.com/file/i1jAyUFUFfWhAoi1WCBcoC/Globant?node-id=89%3A10770)
 
