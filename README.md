@@ -53,9 +53,16 @@ Te damos la bienvenida a The Perfect Mentor. El objetivo de este proyecto es des
 
 #### Sobre el diseño de la página puedes ver este Figma como guía para poder arrancar con tu web .[https://www.figma.com/file/i1jAyUFUFfWhAoi1WCBcoC/Globant?node-id=89%3A10770](https://www.figma.com/file/i1jAyUFUFfWhAoi1WCBcoC/Globant?node-id=89%3A10770)
 
-Trabajaremos también con el deployment de esta página. Te aconsejamos manejar carpetas separadas (backend y frontend) para poder realizar el deploy. Es decir, una carpeta para el backend y otra para el frontend.
 
 ## Metodología agil
 
-Durante el bootcamp trabajamos con metodologías agiles, las cuales nos ayudan a desarrollar nuestros proyectos de manera eficiente, cumplir plazos de desarrollo y mantener la calidad de nuestro producto final gracias a la forma estructurada. Por eso utilizaremos la herramienta Trello, muy utilizada dentro del mundo Dev, para poder organizar las tareas de cada sprint. [https://trello.com/invite/perfectmentor/c1eb716dd07864a062c86d24b37e104b](https://trello.com/invite/perfectmentor/c1eb716dd07864a062c86d24b37e104b)
+Durante el bootcamp trabajamos con metodologías agiles, las cuales nos ayudan a desarrollar nuestros proyectos de manera eficiente, cumplir plazos de desarrollo y mantener la calidad de nuestro producto final gracias a la forma estructurada. Por eso utilizaremos la herramienta Trello, muy utilizada dentro del mundo Dev, para poder organizar las tareas de cada sprint. [https://trello.com/invite/b/FiK56EmZ/93639df8aade55e5196aba2f94673895/the-perfect-mentor](https://trello.com/invite/b/FiK56EmZ/93639df8aade55e5196aba2f94673895/the-perfect-mentor)
 
+
+## Deployment
+
+Trabajaremos también con el deployment de esta página. Te aconsejamos manejar carpetas separadas (backend y frontend) para poder realizar el deploy. Es decir, una carpeta para el backend y otra para el frontend. Te dejamos algunos recursos para poder hacer el deployment:
+
+#### Firebase
+
+#### Render
