@@ -56,7 +56,7 @@ Te damos la bienvenida a The Perfect Mentor. El objetivo de este proyecto es des
 
 ## Metodología agil
 
-Durante el bootcamp trabajamos con metodologías agiles, las cuales nos ayudan a desarrollar nuestros proyectos de manera eficiente, cumplir plazos de desarrollo y mantener la calidad de nuestro producto final gracias a la forma estructurada. Por eso utilizaremos la herramienta Trello, muy utilizada dentro del mundo Dev, para poder organizar las tareas de cada sprint. [https://trello.com/invite/b/FiK56EmZ/93639df8aade55e5196aba2f94673895/the-perfect-mentor](https://trello.com/invite/b/FiK56EmZ/93639df8aade55e5196aba2f94673895/the-perfect-mentor)
+Durante el bootcamp trabajamos con metodologías agiles, las cuales nos ayudan a desarrollar nuestros proyectos de manera eficiente, cumplir plazos de desarrollo y mantener la calidad de nuestro producto final gracias a la forma estructurada. Por eso utilizaremos la herramienta Trello, muy utilizada dentro del mundo Dev, para poder organizar las tareas de cada sprint. https://trello.com/b/UEj5bWTC.
 
 
 ## Deployment
